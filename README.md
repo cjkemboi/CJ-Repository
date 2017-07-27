@@ -1,1 +1,1 @@
-# CJ-Reposityory
+# CJ-Repository
